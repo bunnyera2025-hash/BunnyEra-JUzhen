@@ -1,2 +1,25 @@
-# BunnyEra-JUzhen
-🚀 AI 矩阵宣传机器人 | 一键同步 GitHub/Gitee/GitLab + 自动生成多平台海报 + Twitter/微博/知乎/小红书/Discord/Telegram 全网推送 中英混合 ≤ 120 字符，搜索关键字全覆盖，emoji 提升星标率。
+# BunnyEra-IJuzhen
+
+🚀 AI Matrix Promotion Bot | One-click sync to GitHub/Gitee/GitLab + Automatically generate multi-platform posters + Push to Facebook, Instagram, TikTok, YouTube, Twitter, LINE, WhatsApp, Weibo, Zhihu, Xiaohongshu, Discord, Telegram.
+
+Features:
+- Auto-generate posters and campaign content for multiple social media platforms.
+- Supports both English and Chinese, mixed posts up to 120 characters.
+- Full coverage of search keywords.
+- Emoji enhancement for titles and highlights.
+
+Supported Platforms:
+- Facebook
+- Instagram
+- TikTok
+- YouTube
+- Twitter
+- LINE
+- WhatsApp
+- Weibo
+- Zhihu
+- Xiaohongshu
+- Discord
+- Telegram
+
+Enjoy seamless promotion across all major social networks!
